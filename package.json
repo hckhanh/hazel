@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "micro-dev lib/server.js",
     "test": "xo && jest",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "vercel-dev": "vercel dev"
   },
   "license": "MIT",
   "repository": "zeit/hazel",
