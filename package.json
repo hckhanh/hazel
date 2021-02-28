@@ -34,7 +34,7 @@
     "date-fns": "2.16.1",
     "express-useragent": "1.0.15",
     "finalhandler": "1.1.2",
-    "got": "11.8.0",
+    "got": "11.8.2",
     "handlebars": "4.7.6",
     "micro": "9.3.4",
     "ms": "2.1.2",
